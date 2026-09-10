@@ -1,4 +1,14 @@
+node_modules/
+
+# Real captures — never commit schedule data.
+# Anything hand-built for tests must be named synthetic-*.json.
 fixtures/*.json
 !fixtures/synthetic-*.json
+tests/*.json
+*-capture.json
+
+# Local working docs
 PARSER.md
 RESOURCES.md
+STRUCTURE.md
+
