@@ -1,0 +1,1327 @@
+{
+  "d": {
+    "__count": "40",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-09-24T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-09-24T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790208000000)/",
+        "EndDate": "/Date(1796947200000)/",
+        "StartTime": "PT09H00M00S",
+        "EndTime": "PT09H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000101",
+        "EventDate": "/Date(1790208000000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 101 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-09-24T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-09-25T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-09-25T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790294400000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT10H00M00S",
+        "EndTime": "PT11H50M00S",
+        "Duration": "01:50hr",
+        "EventId": "00000103",
+        "EventDate": "/Date(1790294400000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 15 - Laboratory",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LA (001-002)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Laboratory",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-09-25T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-09-25T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-09-25T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1790294400000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-09-25T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-09-28T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-09-28T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1790553600000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-09-28T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-09-28T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-09-28T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Evening Seminar",
+        "ModuleId": "00003333",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT16H00M00S",
+        "EndTime": "PT17H20M00S",
+        "Duration": "01:20hr",
+        "EventId": "00000301",
+        "EventDate": "/Date(1790553600000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 400 - Seminar Room",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-303-SE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Seminar",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-09-28T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-09-29T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-09-29T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790208000000)/",
+        "EndDate": "/Date(1796947200000)/",
+        "StartTime": "PT09H00M00S",
+        "EndTime": "PT09H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000101",
+        "EventDate": "/Date(1790640000000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 101 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-09-29T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-09-30T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-09-30T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790726400000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000102",
+        "EventDate": "/Date(1790726400000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 210 - Classroom",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-DI (001-001)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Discussion",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-09-30T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-09-30T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-09-30T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1790726400000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-09-30T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-09-30T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-09-30T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Evening Seminar",
+        "ModuleId": "00003333",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT16H00M00S",
+        "EndTime": "PT17H20M00S",
+        "Duration": "01:20hr",
+        "EventId": "00000301",
+        "EventDate": "/Date(1790726400000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 400 - Seminar Room",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-303-SE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Seminar",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-09-30T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-01T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-01T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790208000000)/",
+        "EndDate": "/Date(1796947200000)/",
+        "StartTime": "PT09H00M00S",
+        "EndTime": "PT09H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000101",
+        "EventDate": "/Date(1790812800000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 101 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-01T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-10-02T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-10-02T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790294400000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT10H00M00S",
+        "EndTime": "PT11H50M00S",
+        "Duration": "01:50hr",
+        "EventId": "00000103",
+        "EventDate": "/Date(1790899200000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 15 - Laboratory",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LA (001-002)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Laboratory",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-10-02T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-02T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-02T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1790899200000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-02T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-05T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-05T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1791158400000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-05T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-05T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-05T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Evening Seminar",
+        "ModuleId": "00003333",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT16H00M00S",
+        "EndTime": "PT17H20M00S",
+        "Duration": "01:20hr",
+        "EventId": "00000301",
+        "EventDate": "/Date(1791158400000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 400 - Seminar Room",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-303-SE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Seminar",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-05T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-06T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-06T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790208000000)/",
+        "EndDate": "/Date(1796947200000)/",
+        "StartTime": "PT09H00M00S",
+        "EndTime": "PT09H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000101",
+        "EventDate": "/Date(1791244800000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 101 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-06T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-10-07T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-10-07T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790726400000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000102",
+        "EventDate": "/Date(1791331200000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 210 - Classroom",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-DI (001-001)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Discussion",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-10-07T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-07T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-07T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1791331200000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-07T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-07T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-07T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Evening Seminar",
+        "ModuleId": "00003333",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT16H00M00S",
+        "EndTime": "PT17H20M00S",
+        "Duration": "01:20hr",
+        "EventId": "00000301",
+        "EventDate": "/Date(1791331200000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 400 - Seminar Room",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-303-SE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Seminar",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-07T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-08T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-08T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790208000000)/",
+        "EndDate": "/Date(1796947200000)/",
+        "StartTime": "PT09H00M00S",
+        "EndTime": "PT09H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000101",
+        "EventDate": "/Date(1791417600000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 101 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-08T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-10-09T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-10-09T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790294400000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT10H00M00S",
+        "EndTime": "PT11H50M00S",
+        "Duration": "01:50hr",
+        "EventId": "00000103",
+        "EventDate": "/Date(1791504000000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 15 - Laboratory",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LA (001-002)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Laboratory",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-10-09T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-09T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-09T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1791504000000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-09T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-12T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-12T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1791763200000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-12T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-12T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-12T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Evening Seminar",
+        "ModuleId": "00003333",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT16H00M00S",
+        "EndTime": "PT17H20M00S",
+        "Duration": "01:20hr",
+        "EventId": "00000301",
+        "EventDate": "/Date(1791763200000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 400 - Seminar Room",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-303-SE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Seminar",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-12T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-13T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-13T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790208000000)/",
+        "EndDate": "/Date(1796947200000)/",
+        "StartTime": "PT09H00M00S",
+        "EndTime": "PT09H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000101",
+        "EventDate": "/Date(1791849600000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 101 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-13T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-10-14T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-10-14T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790726400000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000102",
+        "EventDate": "/Date(1791936000000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 210 - Classroom",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-DI (001-001)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Discussion",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-10-14T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-14T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-14T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1791936000000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-14T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-14T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-14T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Evening Seminar",
+        "ModuleId": "00003333",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT16H00M00S",
+        "EndTime": "PT17H20M00S",
+        "Duration": "01:20hr",
+        "EventId": "00000301",
+        "EventDate": "/Date(1791936000000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 400 - Seminar Room",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-303-SE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Seminar",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-14T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-15T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-15T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790208000000)/",
+        "EndDate": "/Date(1796947200000)/",
+        "StartTime": "PT09H00M00S",
+        "EndTime": "PT09H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000101",
+        "EventDate": "/Date(1792022400000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 101 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-15T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-10-16T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-10-16T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790294400000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT10H00M00S",
+        "EndTime": "PT11H50M00S",
+        "Duration": "01:50hr",
+        "EventId": "00000103",
+        "EventDate": "/Date(1792108800000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 15 - Laboratory",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LA (001-002)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Laboratory",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000103',EventDate=datetime'2026-10-16T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-16T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-16T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1792108800000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-16T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-19T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-19T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1792368000000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-19T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-19T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-19T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Evening Seminar",
+        "ModuleId": "00003333",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT16H00M00S",
+        "EndTime": "PT17H20M00S",
+        "Duration": "01:20hr",
+        "EventId": "00000301",
+        "EventDate": "/Date(1792368000000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 400 - Seminar Room",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-303-SE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Seminar",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-19T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-20T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-20T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790208000000)/",
+        "EndDate": "/Date(1796947200000)/",
+        "StartTime": "PT09H00M00S",
+        "EndTime": "PT09H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000101",
+        "EventDate": "/Date(1792454400000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 101 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-20T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-10-21T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-10-21T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790726400000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000102",
+        "EventDate": "/Date(1792540800000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 210 - Classroom",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-DI (001-001)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Discussion",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000102',EventDate=datetime'2026-10-21T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-21T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-21T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT14H00M00S",
+        "EndTime": "PT14H50M00S",
+        "Duration": "00:50hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1792540800000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-21T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-21T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-21T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Evening Seminar",
+        "ModuleId": "00003333",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796169600000)/",
+        "StartTime": "PT16H00M00S",
+        "EndTime": "PT17H20M00S",
+        "Duration": "01:20hr",
+        "EventId": "00000301",
+        "EventDate": "/Date(1792540800000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 400 - Seminar Room",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-303-SE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Seminar",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000301',EventDate=datetime'2026-10-21T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-22T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-22T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Applied Fixtures",
+        "ModuleId": "00002222",
+        "StartDate": "/Date(1790553600000)/",
+        "EndDate": "/Date(1796342400000)/",
+        "StartTime": "PT11H30M00S",
+        "EndTime": "PT14H29M00S",
+        "Duration": "02:59hr",
+        "EventId": "00000201",
+        "EventDate": "/Date(1792627200000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 119 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-202-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000201',EventDate=datetime'2026-10-22T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-23T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-23T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Synthetic Systems",
+        "ModuleId": "00001111",
+        "StartDate": "/Date(1790208000000)/",
+        "EndDate": "/Date(1796947200000)/",
+        "StartTime": "PT08H00M00S",
+        "EndTime": "PT10H59M00S",
+        "Duration": "02:59hr",
+        "EventId": "00000101",
+        "EventDate": "/Date(1792713600000)/",
+        "Location": "UC San Diego",
+        "Room": "Room 101 - Lecture Hall",
+        "Building": "",
+        "Status": false,
+        "EventName": "SYN-101-LE (001-000)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "01",
+        "EvobtypeText": "",
+        "TeachingMethod": "Lecture",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000101',EventDate=datetime'2026-10-23T00%3A00%3A00')/VenueInformation"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000000',EventDate=datetime'2026-11-11T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000000',EventDate=datetime'2026-11-11T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Veterans Day",
+        "ModuleId": "00000000",
+        "StartDate": "/Date(1790208000000)/",
+        "EndDate": "/Date(1796947200000)/",
+        "StartTime": "PT00H00M00S",
+        "EndTime": "PT00H00M00S",
+        "Duration": "",
+        "EventId": "00000000",
+        "EventDate": "/Date(1794355200000)/",
+        "Location": "UC San Diego",
+        "Room": "",
+        "Building": "",
+        "Status": false,
+        "EventName": "Veterans Day",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "03",
+        "EvobtypeText": "",
+        "TeachingMethod": "",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": ""
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000000',EventDate=datetime'2026-11-26T00%3A00%3A00')",
+          "uri": "https://tss.ucsd.edu/sap/opu/odata/ited/EVENT_TIMETABLE_SRV/EventListSet(EventId='00000000',EventDate=datetime'2026-11-26T00%3A00%3A00')",
+          "type": "ITED_EVENT_TIMETABLE_SRV.EventList"
+        },
+        "CourseName": "Thanksgiving Day     (guaranteed)",
+        "ModuleId": "00000000",
+        "StartDate": "/Date(1790208000000)/",
+        "EndDate": "/Date(1796947200000)/",
+        "StartTime": "PT00H00M00S",
+        "EndTime": "PT00H00M00S",
+        "Duration": "",
+        "EventId": "00000000",
+        "EventDate": "/Date(1795651200000)/",
+        "Location": "UC San Diego",
+        "Room": "",
+        "Building": "",
+        "Status": false,
+        "EventName": "Thanksgiving Day     (guaranteed)",
+        "AttendanceOptional": false,
+        "EventCssColor": "#d58215",
+        "EventIcon": "sap-icon://chalkboard",
+        "EventIsExam": false,
+        "EventType": "03",
+        "EvobtypeText": "",
+        "TeachingMethod": "",
+        "VenueInformation": {
+          "__deferred": {
+            "uri": ""
+          }
+        }
+      }
+    ]
+  }
+}
