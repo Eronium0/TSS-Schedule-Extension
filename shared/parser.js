@@ -21,7 +21,7 @@ function parseSapDate(str){
 export function parseSchedule(raw){ 
     const rows = raw.d.results.filter(row => row.EventType === "01");
     const groups = Object.groupBy(rows, row => row.EventId);
-    const section = [];
+    const sections = [];
     for(const[eventID, groupRows] of Object.entries(groups)){
         const tally = Object.groupBy(groupRows, row => row.StartTime + '|' + row.EndTime);        
         let mode = 0;
@@ -39,7 +39,7 @@ export function parseSchedule(raw){
         const daySet = new Set(mapDay);
         const day = Array.from(daySet);
         const sortedDays = day.sort((a, b) => a - b);        
-        section.push({
+        sections.push({
             id:            eventID,
             courseId:      best[0].ModuleId,
             component:     best[0].TeachingMethod,
@@ -54,6 +54,6 @@ export function parseSchedule(raw){
             exceptionRows
         });
     }
-    return section;
+    return sections;
 }
 

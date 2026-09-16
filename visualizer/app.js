@@ -1,5 +1,10 @@
 import { parseSchedule } from "./lib/parser.js";
+import { renderGrid } from "./grid.js";
+import { renderWarnings } from "./grid.js";
+import { findConflicts } from "./conflicts.js";
 const response = await fetch("../fixtures/quarter-capture.json");
 const raw = await response.json();
 const sections = parseSchedule(raw);
-document.body.textContent = JSON.stringify(sections);
+const conflicts = findConflicts(sections);
+renderGrid(sections, conflicts);
+renderWarnings(sections, conflicts);
