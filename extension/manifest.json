@@ -17,8 +17,5 @@
     "activeTab",
     "scripting",
     "storage"
-  ],
-  "host_permissions": [
-    "https://tss.ucsd.edu/*"
   ]
 }
