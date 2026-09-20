@@ -11,5 +11,6 @@ tests/*.json
 PARSER.md
 RESOURCES.md
 STRUCTURE.md
-
+*.zip
+/fixtures/README-fixtures.md
 PLAN.md

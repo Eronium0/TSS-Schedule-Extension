@@ -8,13 +8,13 @@ let rawSoc;
 if(typeof chrome !== 'undefined' && chrome.storage){
     raw = (await chrome.storage.local.get('raw')).raw;
 }else{
-    raw = await (await fetch('../fixtures/quarter-capture.json')).json();
+    raw = await (await fetch('../fixtures/synthetic-quarter.json')).json();
 }
 
 if(typeof chrome !== 'undefined' && chrome.storage){
     rawSoc = (await chrome.storage.local.get('rawSoc')).rawSoc;
 }else{
-    rawSoc = await (await fetch('../fixtures/sections-capture.json')).json();
+    rawSoc = await (await fetch('../fixtures/synthetic-sections.json')).json();
 }
 
 
