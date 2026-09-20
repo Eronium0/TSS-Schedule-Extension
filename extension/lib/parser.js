@@ -18,6 +18,26 @@ function parseSapDate(str){
     return result;
 }
 
+export function enrichSections(sections, socJson){
+    const warnings = [];
+    for(const section of sections){
+       const socModule = socJson.value.filter(modrow => String(Number(modrow.ModuleID)) === String(Number(section.courseId)) && String(Number(modrow.EventObjid)) === String(Number(section.id)));   
+       if(typeof socModule[0] === "undefined") {
+            warnings.push(section.classSection);
+            continue;
+        }else{    
+            const instructor = socModule[0].InstructorName;
+            const split1 = String(socModule[0].Sched).split('\n');
+            const venue = split1[0].split('@')
+            section.instructor = instructor;
+            if(venue[1]){
+                section.room = venue[1].trim();
+            }
+        }
+    }
+    return{sections, warnings};
+}
+
 export function parseSchedule(raw){ 
     const rows = raw.d.results.filter(row => row.EventType === "01");
     const groups = Object.groupBy(rows, row => row.EventId);

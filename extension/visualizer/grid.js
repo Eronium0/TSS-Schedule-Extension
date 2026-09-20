@@ -27,7 +27,7 @@ function formatTime(minutes){
     return time;
 }
 
-export function renderWarnings(sections, conflicts){
+export function renderWarnings(sections, conflicts, warnings){
     const warning = document.getElementById('warnings');
     warning.replaceChildren();
     for(const conflict of conflicts){
@@ -35,6 +35,12 @@ export function renderWarnings(sections, conflicts){
         const b = sections.find(s => s.id === conflict.b);
         const day = formatDays(conflict.days).join(', ');    
         warning.append(a.classSection + " and " + b.classSection + " overlap on " + day + ".");
+    }
+    for(const problem of warnings){
+        const warningDiv = document.createElement('div');
+        warningDiv.className = 'problem';
+        warningDiv.textContent = "Couldn't load building or instructor for " + problem;
+        warning.append(warningDiv);
     }
 }
 
@@ -150,13 +156,17 @@ export function renderGrid(sections, conflicts){
             timeDiv.className = 'time';
             timeDiv.textContent = timeText;
 
+            const instructorDiv = document.createElement('div');
+            instructorDiv.className = 'instructor';
+            instructorDiv.textContent = section.instructor;
+
             const roomDiv = document.createElement('div');
             roomDiv.className = 'room';
             roomDiv.textContent = section.room;
             block.style.gridRow = startRow + ' / ' + endRow ;
             block.style.gridColumn = daysToRender.indexOf(day) + 2;
             block.style.setProperty('--course-color', hue);
-            block.append(classDiv, dayDiv, timeDiv, roomDiv);
+            block.append(classDiv, dayDiv, timeDiv, instructorDiv, roomDiv);
             scheduleContainer.append(block);
         }
     }
